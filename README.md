@@ -2,9 +2,8 @@
 
 [![Build Status](https://travis-ci.org/nyu-devops/lab-flask-bdd.svg?branch=master)](https://travis-ci.org/nyu-devops/lab-flask-bdd)
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-flask-bdd.svg)]()
-
-This repository is part of lab for the *NYU DevOps* class for Spring 2017, [CSCI-GA.3033-013](http://cs.nyu.edu/courses/spring17/CSCI-GA.3033-013/) on Behavior Driven Development with Flask and Behave
 [![Build Status](https://travis-ci.org/xynazog/lab-flask-bdd.svg?branch=master)](https://travis-ci.org/xynazog/lab-flask-bdd)
+This repository is part of lab for the *NYU DevOps* class for Spring 2017, [CSCI-GA.3033-013](http://cs.nyu.edu/courses/spring17/CSCI-GA.3033-013/) on Behavior Driven Development with Flask and Behave
 The sample code is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry. It also uses [Redis](https://redis.io) as a database for storing JSON objects.
 
 ## Introduction
